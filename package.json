@@ -1,0 +1,19 @@
+{
+  "name": "chords-of",
+  "version": "1.0.0",
+  "description": "generate all chords of a scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendsp/chords-of.git"
+  },
+  "author": "stagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opendsp/chords-of/issues"
+  },
+  "homepage": "https://github.com/opendsp/chords-of#readme"
+}
